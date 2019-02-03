@@ -2,7 +2,7 @@ const http = require('http');
 const fs = require('fs');
 const pages = require('./picturePaths.json');
 
-const pageStart = 1068;
+const pageStart = 0;
 const pageEnd = pages.length;
 const fileType = 'pathLarge';
 // const fileType = 'pathXxlarge';
