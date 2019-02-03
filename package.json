@@ -1,0 +1,8 @@
+{
+  "name": "pictures-marathon-magog",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "unirest": "^0.5.1"
+  }
+}
